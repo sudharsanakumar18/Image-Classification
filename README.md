@@ -31,8 +31,8 @@ Save the trained model, visualize predictions, and integrate it into an applicat
 
 ## PROGRAM
 
-### Name:subikshan p
-### Register Number:212223240161
+### Name: Sudharsana Kumar S R
+### Register Number:212223240162
 ```python
 class CNNClassifier(nn.Module):
     def __init__(self):
